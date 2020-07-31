@@ -1,5 +1,9 @@
 ## Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">
 
+<style>
+color: blue;
+</style>
+
 <!-- <p align='center'>
 <a href="https://dev.to/waylonwalker"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
@@ -22,7 +26,7 @@
 
 <img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=blue">
 
-<img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=data:image/svg;base64,aHR0cHM6Ly91cGxvYWQud2lraW1lZGlhLm9yZy93aWtpcGVkaWEvY29tbW9ucy80LzRiL0Jhc2hfTG9nb19Db2xvcmVkLnN2Zw&logoColor=white&color=blue">
+<img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=data:image/svg;base64,aHR0cHM6Ly91cGxvYWQud2lraW1lZGlhLm9yZy93aWtpcGVkaWEvY29tbW9ucy80LzRiL0Jhc2hfTG9nb19Db2xvcmVkLnN2Zw==&logoColor=white&color=blue">
 
 <img src="https://img.shields.io/badge/Tool-CMake-informational?style=flat&logo=cmake&logoColor=white&color=blue">
 
