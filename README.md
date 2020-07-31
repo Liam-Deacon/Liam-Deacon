@@ -10,6 +10,8 @@
 
 ### 🔧 Tools & Technologies
 
+<p>
+
 <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue">
 
 <img src="https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=C&logoColor=white&color=blue">
@@ -44,6 +46,8 @@
 
 <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blue">
 
+</p>
+
 ### <img height=24 src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"> GitHub Stats
 
 <div style="text-align: center; display: inline-block">
@@ -54,13 +58,11 @@
 
 </div>
 
-<div style="text-align: left">
-
 ### 👀 Highlighted Repos
 
 Here are some open source repos I have made:
 
-</div>
+<div style="text-align: center">
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=liam-deacon&repo=elemental&theme=dracula&bg_color=222&title_color=090&icon_color=b90&count_private=true&layout=compact">
 
