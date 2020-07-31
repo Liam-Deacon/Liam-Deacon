@@ -52,9 +52,13 @@
 
 <div style="text-align: center; display: inline-block">
 
-<img width=43% src="https://github-readme-stats.vercel.app/api?username=liam-deacon&show_icons=true&theme=dracula&bg_color=222&title_color=090&icon_color=b90&count_private=true">
+<p>
 
-<img width=35% src="https://github-readme-stats.vercel.app/api/top-langs/?username=liam-deacon&theme=dracula&bg_color=222&title_color=090&icon_color=b90&count_private=true&layout=compact">
+<img width=55% src="https://github-readme-stats.vercel.app/api?username=liam-deacon&show_icons=true&theme=dracula&bg_color=222&title_color=090&icon_color=b90&count_private=true">
+
+<img width=44.5% src="https://github-readme-stats.vercel.app/api/top-langs/?username=liam-deacon&theme=dracula&bg_color=222&title_color=090&icon_color=b90&count_private=true&layout=compact">
+
+</p>
 
 </div>
 
