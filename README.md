@@ -26,7 +26,7 @@ color: blue;
 
 <img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=blue">
 
-<img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=data:image/svg;base64,aHR0cHM6Ly91cGxvYWQud2lraW1lZGlhLm9yZy93aWtpcGVkaWEvY29tbW9ucy80LzRiL0Jhc2hfTG9nb19Db2xvcmVkLnN2Zw==&logoColor=white&color=blue">
+<img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNU%20Bash&logoColor=white&color=blue">
 
 <img src="https://img.shields.io/badge/Tool-CMake-informational?style=flat&logo=cmake&logoColor=white&color=blue">
 
@@ -34,7 +34,12 @@ color: blue;
 
 <img src="https://img.shields.io/badge/Tool-CMake-informational?style=flat&logo=cmake&logoColor=white&color=blue">
 
-<img src="https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=azure&logoColor=white&color=blue">
+<img src="https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft%20azure&logoColor=white&color=blue">
+
+<img src="https://img.shields.io/badge/Tool-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=blue">
+
+
+<img src="https://img.shields.io/badge/Cloud-Azure%20Pipelines-informational?style=flat&logo=Azure%20Pipelines&logoColor=white&color=blue">
 
 <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue">
 
@@ -42,13 +47,17 @@ color: blue;
 
 <img src="https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=blue">
 
-<img src="https://img.shields.io/badge/OS-RedHat-informational?style=flat&logo=redhat&logoColor=white&color=blue">
+<img src="https://img.shields.io/badge/OS-RedHat-informational?style=flat&logo=Red%20Hat&logoColor=white&color=blue">
 
-<img src="https://img.shields.io/badge/OS-OpenSUSE-informational?style=flat&logo=suse&logoColor=white&color=blue">
+<img src="https://img.shields.io/badge/OS-OpenSUSE-informational?style=flat&logo=openSUSE&logoColor=white&color=blue">
 
-<img src="https://img.shields.io/badge/OS-MacOS%20X-informational?style=flat&logo=osx&logoColor=white&color=blue">
+<img src="https://img.shields.io/badge/OS-MacOS%20X-informational?style=flat&logo=apple&logoColor=white&color=blue">
 
 <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blue">
+
+
+<img src="https://img.shields.io/badge/IoT-Raspberry%20Pi-informational?style=flat&logo=raspberry%20pi&logoColor=white&color=blue">
+
 
 </p>
 
