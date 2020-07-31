@@ -52,7 +52,7 @@
 
 <div style="text-align: center; display: inline-block">
 
-<p>
+<p text-align: center>
 
 <img width=50% src="https://github-readme-stats.vercel.app/api?username=liam-deacon&show_icons=true&theme=dracula&bg_color=222&title_color=090&icon_color=b90&count_private=true">
 
