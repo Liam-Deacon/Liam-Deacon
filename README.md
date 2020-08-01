@@ -14,32 +14,61 @@
 
 <p>
 
-<img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue">
+<img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=olivedrab">
 
-<img src="https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=C&logoColor=white&color=blue">
+<img src="https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=C&logoColor=white&color=olivedrab">
 
-<img src="https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=blue">
+<img src="https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=olivedrab">
 
-<img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=blue">
+<img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=olivedrab">
 
-<img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=blue">
+<img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=olivedrab">
 
-<img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNU%20Bash&logoColor=white&color=blue">
+<img src="https://img.shields.io/badge/Code-LabVIEW-informational?style=flat&logo=LabVIEW&logoColor=white&color=olivedrab">
 
-<img src="https://img.shields.io/badge/Tool-CMake-informational?style=flat&logo=cmake&logoColor=white&color=blue">
+<img src="https://img.shields.io/badge/Code-Octave-informational?style=flat&logo=Octave&logoColor=white&color=olivedrab">
 
-<img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=blue">
+<img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNU%20Bash&logoColor=white&color=red">
 
-<img src="https://img.shields.io/badge/Tool-CMake-informational?style=flat&logo=cmake&logoColor=white&color=blue">
+<img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=seagreen">
+
+<img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=seagreen">
+
+<img src="https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=seagreen">
+
+<img src="https://img.shields.io/badge/Database-SQL%20Server-informational?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white&color=seagreen">
+
+<img src="https://img.shields.io/badge/Tool-Django-informational?style=flat&logo=Django&logoColor=white&color=orange">
+
+<img src="https://img.shields.io/badge/Tool-Flask-informational?style=flat&logo=Flask&logoColor=white&color=orange">
+
+<img src="https://img.shields.io/badge/Tool-Node.js-informational?style=flat&logo=Node.JS&logoColor=white&color=orange">
+
+<img src="https://img.shields.io/badge/Tool-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=orange">
+
+<img src="https://img.shields.io/badge/Tool-JQuery-informational?style=flat&logo=jquery&logoColor=white&color=orange">
+
+<img src="https://img.shields.io/badge/Tool-Qt-informational?style=flat&logo=QT&logoColor=white&color=orange">
+
+<img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=orange">
+
+<img src="https://img.shields.io/badge/Tool-CMake-informational?style=flat&logo=cmake&logoColor=white&color=orange">
+
+<img src="https://img.shields.io/badge/Tool-Nginx-informational?style=flat&logo=NGINX&logoColor=white&color=orange">
+
+<img src="https://img.shields.io/badge/Tool-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=orange">
+
+<img src="https://img.shields.io/badge/Tool-Anaconda-informational?style=flat&logo=Anaconda&logoColor=white&color=orange">
+
+<img src="https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=orange">
+
+<img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=blue">
 
 <img src="https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft%20azure&logoColor=white&color=blue">
 
-<img src="https://img.shields.io/badge/Tool-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=blue">
-
+<img src="https://img.shields.io/badge/Cloud-Azure%20DevOps-informational?style=flat&logo=Azure%20DevOps&logoColor=white&color=blue">
 
 <img src="https://img.shields.io/badge/Cloud-Azure%20Pipelines-informational?style=flat&logo=Azure%20Pipelines&logoColor=white&color=blue">
-
-<img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue">
 
 <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue">
 
@@ -53,9 +82,15 @@
 
 <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blue">
 
+<img src="https://img.shields.io/badge/IoT-Raspberry%20Pi-informational?style=flat&logo=raspberry%20pi&logoColor=white&color=darkcyan">
 
-<img src="https://img.shields.io/badge/IoT-Raspberry%20Pi-informational?style=flat&logo=raspberry%20pi&logoColor=white&color=blue">
+<img src="https://img.shields.io/badge/Published%20To-PyPI-informational?style=flat&logo=PyPI&logoColor=white&color=yellow">
 
+<img src="https://img.shields.io/badge/Published%20To-Read%20The%20Docs-informational?style=flat&logo=Read%20The%20Docs&logoColor=white&color=yellow">
+
+<img src="https://img.shields.io/badge/CI-GitHub%20Actions-informational?style=flat&logo=GitHub%20Actions&logoColor=white&color=yellow">
+
+<img src="https://img.shields.io/badge/CI-Jenkins-informational?style=flat&logo=Jenkins&logoColor=white&color=yellow">
 
 </p>
 
@@ -88,6 +123,7 @@ Here are some open source repos I have made:
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=liam-deacon&repo=phaseshifts&theme=dracula&bg_color=222&title_color=090&icon_color=b90&count_private=true&layout=compact">
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=liam-deacon&repo=liam-deacon.github.io&theme=dracula&bg_color=222&title_color=090&icon_color=b90&count_private=true&layout=compact">
+
 
 </div>
 
