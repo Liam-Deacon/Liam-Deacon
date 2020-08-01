@@ -13,7 +13,9 @@ I love challenges and take pride in the work that I do 🚀
 <a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p> -->
 
-### 🔧 Tools & Technologies <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-small.gif" width=32px align=center style="padding-bottom:5px" alt="">
+<div style="display: inline-block; text-align: center">
+    <h3> 🔧 Tools & Technologies <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-small.gif" width=32px style="padding-bottom:5px" alt=""></h3>
+</div>
 
 I've used a lot of different tools and technologies, so here are some highlights:
 
