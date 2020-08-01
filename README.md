@@ -2,6 +2,9 @@
 
 ## Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">
 
+I am a natural tinkerer, technology enthuisiast and life-long learner!
+I love challenges and take pride in the work that I do 🚀
+
 <!-- <p align='center'>
 <a href="https://dev.to/waylonwalker"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
@@ -11,6 +14,8 @@
 </p> -->
 
 ### 🔧 Tools & Technologies
+
+I've used a lot of different tools and technologies, so here are some highlights:
 
 <p>
 
