@@ -14,7 +14,7 @@ I love challenges and take pride in the work that I do 🚀
 </p> -->
 
 <div style="display: inline-block; text-align: center">
-    <h3> 🔧 Tools & Technologies <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-small.gif" width=32px style="padding-bottom:5px" alt=""></h3>
+    <h3> 🔧 Tools & Technologies <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-small.gif" width=32px style="position: relative;top: 5px" alt=""></h3>
 </div>
 
 I've used a lot of different tools and technologies, so here are some highlights:
@@ -104,7 +104,7 @@ I've used a lot of different tools and technologies, so here are some highlights
 </p>
 
 <div style="display: inline-block; ">
-    <h3><img height=24 src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"> GitHub Stats <img src="https://images.squarespace-cdn.com/content/v1/54f51011e4b0bd373cdec9da/1528341364571-RJ22T9ZFQ6CLKBNSBST2/ke17ZwdGBToddI8pDm48kGfiFqkITS6axXxhYYUCnlRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpynMgxFZ6RzSE45ir_sniaZBw7FOrln7zsnpr66I7c2YLH858feRDDLIQWAxIBqV54/rising-costs-barchart-color.gif" height=48px style="padding-bottom: 5px" alt=""></h3>
+    <h3><img height=24 src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"> GitHub Stats <img src="https://images.squarespace-cdn.com/content/v1/54f51011e4b0bd373cdec9da/1528341364571-RJ22T9ZFQ6CLKBNSBST2/ke17ZwdGBToddI8pDm48kGfiFqkITS6axXxhYYUCnlRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpynMgxFZ6RzSE45ir_sniaZBw7FOrln7zsnpr66I7c2YLH858feRDDLIQWAxIBqV54/rising-costs-barchart-color.gif" height=48px style="position: relative;top: 15px" alt=""></h3>
 </div>
 
 <div style="text-align: center; display: inline-block">
@@ -120,7 +120,7 @@ I've used a lot of different tools and technologies, so here are some highlights
 </div>
 
 <div style="display: inline-block; text-align: center">
-    <h3> 👀 Highlighted Repos <img src="https://media2.giphy.com/media/AnGxfpoajbhh0lezG8/source.gif" width=28px alt=""></h3> 
+    <h3> 👀 Highlighted Repos <img src="https://media2.giphy.com/media/AnGxfpoajbhh0lezG8/source.gif" width=32px alt="" style="position: relative;top: 8px"></h3> 
 </div>
 
 Here are some open source repos I have made:
