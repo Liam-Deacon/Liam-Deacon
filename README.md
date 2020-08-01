@@ -102,7 +102,7 @@ I've used a lot of different tools and technologies, so here are some highlights
 </p>
 
 <div style="display: inline-block; ">
-    <h3><img height=24 src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"> GitHub Stats <img src="https://images.squarespace-cdn.com/content/v1/54f51011e4b0bd373cdec9da/1528341364571-RJ22T9ZFQ6CLKBNSBST2/ke17ZwdGBToddI8pDm48kGfiFqkITS6axXxhYYUCnlRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpynMgxFZ6RzSE45ir_sniaZBw7FOrln7zsnpr66I7c2YLH858feRDDLIQWAxIBqV54/rising-costs-barchart-color.gif" height=48px alt=""></h3>
+    <h3><img height=24 src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"> GitHub Stats <img src="https://images.squarespace-cdn.com/content/v1/54f51011e4b0bd373cdec9da/1528341364571-RJ22T9ZFQ6CLKBNSBST2/ke17ZwdGBToddI8pDm48kGfiFqkITS6axXxhYYUCnlRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpynMgxFZ6RzSE45ir_sniaZBw7FOrln7zsnpr66I7c2YLH858feRDDLIQWAxIBqV54/rising-costs-barchart-color.gif" height=48px style="padding-bottom: 5px" alt=""></h3>
 </div>
 
 <div style="text-align: center; display: inline-block">
