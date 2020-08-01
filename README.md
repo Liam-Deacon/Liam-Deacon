@@ -115,7 +115,9 @@ I've used a lot of different tools and technologies, so here are some highlights
 
 </div>
 
-### 👀 Highlighted Repos <img src="https://media2.giphy.com/media/AnGxfpoajbhh0lezG8/source.gif" width=28px align=center alt="">
+<div style="inline-block" style="text-align: center">
+    <h3> 👀 Highlighted Repos <img src="https://media2.giphy.com/media/AnGxfpoajbhh0lezG8/source.gif" width=28px alt=""></h3> 
+</div>
 
 Here are some open source repos I have made:
 
