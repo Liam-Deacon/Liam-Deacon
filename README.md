@@ -75,17 +75,17 @@ I've used a lot of different tools and technologies, so here are some highlights
 
 <img src="https://img.shields.io/badge/Cloud-Azure%20Pipelines-informational?style=flat&logo=Azure%20Pipelines&logoColor=white&color=blue">
 
-<img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue">
+<img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=purple">
 
-<img src="https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=blue">
+<img src="https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=purple">
 
-<img src="https://img.shields.io/badge/OS-RedHat-informational?style=flat&logo=Red%20Hat&logoColor=white&color=blue">
+<img src="https://img.shields.io/badge/OS-RedHat-informational?style=flat&logo=Red%20Hat&logoColor=white&color=purple">
 
-<img src="https://img.shields.io/badge/OS-OpenSUSE-informational?style=flat&logo=openSUSE&logoColor=white&color=blue">
+<img src="https://img.shields.io/badge/OS-OpenSUSE-informational?style=flat&logo=openSUSE&logoColor=white&color=purple">
 
-<img src="https://img.shields.io/badge/OS-MacOS%20X-informational?style=flat&logo=apple&logoColor=white&color=blue">
+<img src="https://img.shields.io/badge/OS-MacOS%20X-informational?style=flat&logo=apple&logoColor=white&color=purple">
 
-<img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blue">
+<img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=purple">
 
 <img src="https://img.shields.io/badge/IoT-Raspberry%20Pi-informational?style=flat&logo=raspberry%20pi&logoColor=white&color=darkcyan">
 
