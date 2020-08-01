@@ -43,6 +43,8 @@ I've used a lot of different tools and technologies, so here are some highlights
 
 <img src="https://img.shields.io/badge/Database-SQL%20Server-informational?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white&color=seagreen">
 
+<img src="https://img.shields.io/badge/Tool-JSON-informational?style=flat&logo=JSON&logoColor=white&color=orange">
+
 <img src="https://img.shields.io/badge/Tool-Django-informational?style=flat&logo=Django&logoColor=white&color=orange">
 
 <img src="https://img.shields.io/badge/Tool-Flask-informational?style=flat&logo=Flask&logoColor=white&color=orange">
