@@ -1,6 +1,6 @@
 <div style="background-color: black">
 
-## Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">
+## Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px" alt="">
 
 I am a natural tinkerer, technology enthuisiast and life-long learner!
 I love challenges and take pride in the work that I do 🚀
@@ -13,7 +13,7 @@ I love challenges and take pride in the work that I do 🚀
 <a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p> -->
 
-### 🔧 Tools & Technologies
+### 🔧 Tools & Technologies <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-small.gif" width=32px align=center style="padding-bottom:5px" alt="">
 
 I've used a lot of different tools and technologies, so here are some highlights:
 
@@ -101,7 +101,7 @@ I've used a lot of different tools and technologies, so here are some highlights
 
 </p>
 
-### <img height=24 src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"> GitHub Stats
+### <img height=24 src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"> GitHub Stats <img src="https://images.squarespace-cdn.com/content/v1/54f51011e4b0bd373cdec9da/1528341364571-RJ22T9ZFQ6CLKBNSBST2/ke17ZwdGBToddI8pDm48kGfiFqkITS6axXxhYYUCnlRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpynMgxFZ6RzSE45ir_sniaZBw7FOrln7zsnpr66I7c2YLH858feRDDLIQWAxIBqV54/rising-costs-barchart-color.gif" height=48px align=center style="padding-bottom:5px" alt="">
 
 <div style="text-align: center; display: inline-block">
 
@@ -115,7 +115,7 @@ I've used a lot of different tools and technologies, so here are some highlights
 
 </div>
 
-### 👀 Highlighted Repos
+### 👀 Highlighted Repos <img src="https://media2.giphy.com/media/AnGxfpoajbhh0lezG8/source.gif" width=28px align=center alt="">
 
 Here are some open source repos I have made:
 
