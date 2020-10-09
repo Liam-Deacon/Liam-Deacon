@@ -127,6 +127,7 @@ Here are some open source repos I have made:
 
 <div style="text-align: center">
 <a style="display: inline-block;" href="https://github.com/liam-deacon/elemental"><img src="https://github-readme-stats.vercel.app/api/pin/?username=liam-deacon&repo=elemental&theme=dracula&bg_color=222&title_color=090&icon_color=b90&count_private=true&layout=compact"></a>
+<a style="display: inline-block;" href="https://github.com/liam-deacon/online-store-rest-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=liam-deacon&repo=online-store-rest-api&theme=dracula&bg_color=222&title_color=090&icon_color=b90&count_private=true&layout=compact">&nbsp;</a>
 <a style="display: inline-block;" href="https://github.com/liam-deacon/cleed"><img src="https://github-readme-stats.vercel.app/api/pin/?username=liam-deacon&repo=cleed&theme=dracula&bg_color=222&title_color=090&icon_color=b90&count_private=true&layout=compact"></a>
 <a style="display: inline-block;" href="https://github.com/liam-deacon/metapandas"><img src="https://github-readme-stats.vercel.app/api/pin/?username=liam-deacon&repo=metapandas&theme=dracula&bg_color=222&title_color=090&icon_color=b90&count_private=true&layout=compact">&nbsp;</a>
 <a style="display: inline-block;" href="https://github.com/liam-deacon/phaseshifts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=liam-deacon&repo=phaseshifts&theme=dracula&bg_color=222&title_color=090&icon_color=b90&count_private=true&layout=compact">&nbsp;</a>
